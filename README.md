@@ -53,4 +53,4 @@ Using such hyperparameters, where `learning_rate = 0.001`, `dropout = 0.25`, `op
 - [Move Model from Colab to Udacity's workspace](https://medium.com/@ml_kid/how-to-move-our-model-from-google-colab-to-udacitys-workspace-final-lab-project-88e1a0b7d6ab)
 
 ## License
-
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT) © Pablo Satler 2018
