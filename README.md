@@ -49,6 +49,7 @@ Using such hyperparameters, where `learning_rate = 0.001`, `dropout = 0.25`, `op
 
 
 ## Useful links
+- [PyTorch Scholarship Challenge](https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home) official website
 - [FAQs PyTorch Challenge](https://github.com/ishgirwan/faqs_pytorch_scholarship/blob/master/Lab.md)
 - [Moving Model from Colab to Udacity's workspace](https://medium.com/@ml_kid/how-to-move-our-model-from-google-colab-to-udacitys-workspace-final-lab-project-88e1a0b7d6ab)
 - [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) playlist from Deep Lizard youtube channel.
