@@ -50,7 +50,11 @@ Using such hyperparameters, where `learning_rate = 0.001`, `dropout = 0.25`, `op
 
 ## Useful links
 - [FAQs PyTorch Challenge](https://github.com/ishgirwan/faqs_pytorch_scholarship/blob/master/Lab.md)
-- [Move Model from Colab to Udacity's workspace](https://medium.com/@ml_kid/how-to-move-our-model-from-google-colab-to-udacitys-workspace-final-lab-project-88e1a0b7d6ab)
+- [Moving Model from Colab to Udacity's workspace](https://medium.com/@ml_kid/how-to-move-our-model-from-google-colab-to-udacitys-workspace-final-lab-project-88e1a0b7d6ab)
+- [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) playlist from Deep Lizard youtube channel.
+- [Resources library](https://docs.google.com/spreadsheets/d/1HnlcuI3I-d3Cli__RxOgMrxmE3aiZ8Vw5ar14WoPVRo/edit): google spreadsheet with several links to different kinds of DL resources.
+- Series of 3 articles exploring the PyTorch project: [Part 1](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-1-cf5444b8e9c9), [Part 2](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-2-ae4dd7b2f48), [Part 3](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-3-6ff66106ba89). 
+- [A Data Science Project Walk-Through](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc) in Python. (* Not related to PyTorch's challenge).
 
 ## License
 This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT) © Pablo Satler 2018
