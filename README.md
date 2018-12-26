@@ -55,7 +55,16 @@ Using such hyperparameters, where `learning_rate = 0.001`, `dropout = 0.25`, `op
 - [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) playlist from Deep Lizard youtube channel.
 - [Resources library](https://docs.google.com/spreadsheets/d/1HnlcuI3I-d3Cli__RxOgMrxmE3aiZ8Vw5ar14WoPVRo/edit): google spreadsheet with several links to different kinds of DL resources.
 - Series of 3 articles exploring the PyTorch project: [Part 1](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-1-cf5444b8e9c9), [Part 2](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-2-ae4dd7b2f48), [Part 3](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-3-6ff66106ba89). 
-- [A Data Science Project Walk-Through](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc) in Python. (* Not related to PyTorch's challenge).
+- [Transfer Learning with Convolutional Neural Networks in PyTorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+
+Python/Machine Learning related articles/links:
+- [Controlling the Web with Python](https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08)
+- [A Complete ML Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+- [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)
+- [A Data Science Project Walk-Through](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc) in Python. (* Not related to PyTorch's challenge though).
+- [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
+
 
 ## License
 This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT) © Pablo Satler 2018
