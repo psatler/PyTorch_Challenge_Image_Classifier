@@ -58,6 +58,9 @@ Using such hyperparameters, where `learning_rate = 0.001`, `dropout = 0.25`, `op
 - [Transfer Learning with Convolutional Neural Networks in PyTorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 
+**Deploying Deep Learning Models
+- [Repo with a series of Useful links of how to deploy an DL model](https://github.com/ahkarami/Deep-Learning-in-Production)
+
 Python/Machine Learning related articles/links:
 - [Controlling the Web with Python](https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08)
 - [A Complete ML Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
