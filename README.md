@@ -57,8 +57,9 @@ Using such hyperparameters, where `learning_rate = 0.001`, `dropout = 0.25`, `op
 - Series of 3 articles exploring the PyTorch project: [Part 1](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-1-cf5444b8e9c9), [Part 2](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-2-ae4dd7b2f48), [Part 3](https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-3-6ff66106ba89). 
 - [Transfer Learning with Convolutional Neural Networks in PyTorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+- [Numpy Arrays](https://towardsdatascience.com/numpy-guide-for-people-in-a-hurry-22232699259f): Fast guide about Numpy Arrays
 
-**Deploying Deep Learning Models
+**Deploying Deep Learning Models**
 - [Repo with a series of Useful links of how to deploy an DL model](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 Python/Machine Learning related articles/links:
